@@ -1,0 +1,5 @@
+slicesStartedWith = input("How many pizza slices did you start with?:")
+slicesStartedWith = int(slicesStartedWith)
+eaten = input("How many have you eaten")
+eaten = int(eaten)
+print("You have",slicesStartedWith-eaten,"slices left")
