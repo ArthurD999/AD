@@ -1,0 +1,25 @@
+Please put your name, date and the question as a comment at the top of all your files. 
+
+------------------------------------------------
+Q1+2 and Q3+4 should be on seperate files also wrapping the inputs in int for Q3+4 doesnt let the user enter a float.
+
+------------------------------------------------
+Well done on Q5 Q6 Q8
+
+------------------------------------------------
+Q7 wrapping the inputs in int makes it that the user can enter a bill that has a decimal without getting an error.
+
+------------------------------------------------
+Q9 wrapping the inputs in int makes it that the user can enter a weight that has a decimal without getting an error.
+
+------------------------------------------------
+Activity from book
+Q6 you can use a double * to make a exponent eg 3.14*radius**2
+
+------------------------------------------------
+Well done on Q7 Q8 Q9 Q10
+
+------------------------------------------------
+Q11 with the else statement the user doesnt have to just type 2 they can type anything and it will go to calculate compound 
+interest if you want it only to work if they press 2 you need to use an elif.
+Also the simple interest only gives the interest not the total. 
