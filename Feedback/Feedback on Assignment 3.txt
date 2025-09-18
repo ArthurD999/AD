@@ -1,0 +1,5 @@
+Well done on all 4 questions however on Q4 the question asks that you print each letter of the name on a seperate line. This
+programme has them on the same line.
+
+--------------------------------------
+Q5 missing from github

@@ -1,0 +1,7 @@
+Well done on Q1 Q2 Q5 Q6 Q7 Q8
+
+----------------------
+Good work on Q3 Q4. However, because you used range(1, num), your code adds up all the numbers up to but not 
+including the last number entered. Remember that in Python, the range() function stops before the second value. 
+To include the final number, you should use range(1, num+1).
+
