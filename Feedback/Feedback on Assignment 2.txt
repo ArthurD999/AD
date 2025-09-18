@@ -1,0 +1,4 @@
+Well done, you have shown a clear understanding of the topic. However, in Q9, using three separate if statements is 
+considered bad practice. While your code works, the computer still checks all of the if conditions even after one has 
+already been satisfied. By using elif instead, once a condition is true, the rest will be skipped. For example, if the 
+user enters 50, the first condition is met, and with elif, the program will not waste time checking the other conditions.
