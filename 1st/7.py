@@ -1,5 +1,0 @@
-totalBill= input("What is the total bill:")
-totalBill= int(totalBill)
-numberOfDiners = input("How many diners were there:")
-numberOfDiners= int(numberOfDiners)
-print("Each person must pay",totalBill/numberOfDiners,"$")
